@@ -13,5 +13,10 @@ This repository supports the paper:
 Run `pip install -r requirements.txt`.  
 All outputs saved in `/analysis_outputs/`.
 
-## License
-MIT License
+## Available OOF Artifacts
+
+- `trimodal_oof_logits.npy`: OOF logits for tri-modal model
+- `text_only_oof_logits.npy`: OOF logits for text-only model
+- `image_only_oof_logits.npy`: OOF logits for image-only model
+- `audio_only_oof_logits.npy`: OOF logits for audio-only model
+
