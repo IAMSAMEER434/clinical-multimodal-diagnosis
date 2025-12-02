@@ -1,8 +1,8 @@
 model,micro_f1,macro_f1,threshold
 Audio-only,0.4788,0.3434,0.79
-Text-only,0.6196,0.492,0.83
+Text-only,0.7222,0.492,0.55
 Image-only,0.6196,0.492,0.83
-Image+Audio,0.681,0.5412,0.75
-Text+Audio,0.6942,0.5669,0.74
+Image+Audio,0.6585,0.5039,0.80
+Text+Audio,0.558287,0.412579,0.55
 Text+Image,0.7125,0.591,0.72
 Tri-modal,0.7875,0.6731,0.42
